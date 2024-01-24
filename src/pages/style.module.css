@@ -1,0 +1,26 @@
+.main {
+
+    text-align: center;
+    margin-top: 16%;
+    border: 1px solid blue;
+    margin-bottom: 20px;
+    padding: 10px;
+    margin: 10%;
+    height: 90px;
+
+
+}
+
+
+.block{
+
+    text-align: center;
+    border: 1px solid aqua;
+    padding: 50px;
+    margin: 10%;
+    height: 160px;
+    border-radius: 30px;
+    
+    
+
+}
